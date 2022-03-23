@@ -6,6 +6,8 @@
         <class>jpabook.model.Item</class>
         <class>jpabook.model.Order</class>
         <class>jpabook.model.OrderItem</class>
+        <class>jpabook.model.Delivery</class>
+        <class>jpabook.model.Category</class>
         <properties>
 
             <!-- 필수 속성 -->
